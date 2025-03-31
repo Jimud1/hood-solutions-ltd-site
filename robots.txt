@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /cdn-cgi
+
+# Host
+Host: https://hood-solutions.uk
+
+# Sitemaps
+Sitemap: https://hood-solutions.uk/sitemap.xml
